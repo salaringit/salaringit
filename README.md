@@ -1,7 +1,7 @@
 <h1 align="center">Salar Mirmohammadi</h1>
 
 <p align="center">
-  Python developer &nbsp;·&nbsp; networking &amp; security &nbsp;·&nbsp; sometimes gamer
+  Backend developer &nbsp;·&nbsp; Python &amp; Django &nbsp;·&nbsp; Budapest
 </p>
 
 <p align="center">
@@ -12,20 +12,22 @@
 
 ---
 
-### What I'm into
+### About
 
-I build backends in Django — the kind where the interesting part isn't the CRUD,
-it's the concurrency, the race conditions, and what happens when two people click
-"buy" on the last item at the same moment.
+I've spent the last two years building Django applications for clients — internal
+automation tools, e-commerce sites, and real-time chat systems. Now I'm in Budapest,
+studying at **BME** and heading toward a Computer Science degree.
 
-Lately I've been pulled toward networking and security: how packets actually move,
-where systems leak, and why "it works on localhost" is a lie.
+The part of backend work I actually enjoy isn't the CRUD. It's the concurrency: race
+conditions, what happens when two people click "buy" on the last item at the same
+moment, and why "it works on localhost" is a lie. Lately that curiosity has been
+pulling me toward networking and application security.
 
 ```python
 class Salar:
-    stack      = ["Python", "Django", "DRF", "Channels", "PostgreSQL"]
-    learning   = ["network protocols", "application security", "Docker"]
-    philosophy = "read the RFC before the tutorial"
+    stack     = ["Python", "Django", "DRF", "Channels", "PostgreSQL", "Redis"]
+    learning  = ["network protocols", "application security", "Docker"]
+    languages = ["Persian (native)", "English (fluent)", "Hungarian (learning)"]
 
     def __repr__(self):
         return "still committing"
@@ -35,13 +37,18 @@ class Salar:
 
 ### Things I've built
 
-**[django-realtime-chat](https://github.com/salaringit/django-realtime-chat)**
-Real-time messaging over Django Channels and WebSockets — private chats, groups,
-reactions, polls, read receipts, voice notes, scheduled messages.
+**[django-shop-api](https://github.com/salaringit/django-shop-api)** — E-commerce
+backend in DRF. Product variants, a server-side cart, coupons, and a transactional
+checkout that locks stock rows so it can't oversell. Business rules live in a service
+layer rather than in the views. 27 tests, documented with OpenAPI.
 
-**[django-shop-api](https://github.com/salaringit/django-shop-api)**
-E-commerce backend in DRF. Product variants, server-side cart, coupons, and a
-transactional checkout that locks stock so it can't oversell. Documented with OpenAPI.
+**[django-realtime-chat](https://github.com/salaringit/django-realtime-chat)** —
+Real-time messaging over Django Channels and WebSockets. Private chats, groups and
+broadcast channels, with replies, reactions, polls, read receipts, voice notes, and
+scheduled messages.
+
+Both READMEs have a "design decisions" section — the bugs I found, why they mattered,
+and what I changed. That tends to be the more interesting read.
 
 ---
 
@@ -58,15 +65,10 @@ transactional checkout that locks stock so it can't oversell. Documented with Op
 
 ---
 
-<div align="center">
+### Currently
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=salaringit&show_icons=true&hide_border=true&theme=github_dark&hide=contribs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaringit&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+Studying in Budapest and **looking for part-time or working-student backend work** —
+Python/Django, or something adjacent I can grow into. Available around my class
+schedule, on site in Budapest or remote.
 
-</div>
-
----
-
-<p align="center">
-  <sub>Open to collaborating on Django backends and anything security-adjacent.</sub>
-</p>
+If you're hiring, or just want to argue about Django internals, my inbox is open.
