@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Salar%20Mirmohammadi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend%20developer%20%C2%B7%20Python%20%26%20Django%20%C2%B7%20Budapest&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Salar%20Mirmohammadi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Python%20%C2%B7%20Budapest&descSize=17&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://github.com/salaringit">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Two+years+of+Django+for+real+clients;Concurrency%2C+race+conditions%2C+transactions;Studying+at+BME+in+Budapest;Open+to+part-time+%2F+working-student+roles" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Two+years+of+Python+backends+for+real+clients;Concurrency%2C+race+conditions%2C+transactions;Studying+at+BME+in+Budapest;Open+to+part-time+%2F+working-student+roles" alt="What I do" />
   </a>
 </p>
 
@@ -16,9 +16,10 @@
 
 ### About
 
-I've spent the last two years building Django applications for clients — internal
-automation tools, e-commerce sites, and real-time chat systems. Now I'm in Budapest,
-studying at **BME** and heading toward a Computer Science degree.
+I'm a Python backend developer. I've spent the last two years building web
+applications for clients — internal automation tools, e-commerce sites, and real-time
+chat systems, mostly with Django. Now I'm in Budapest, studying at **BME** and heading
+toward a Computer Science degree.
 
 The part of backend work I actually enjoy isn't the CRUD. It's the concurrency: race
 conditions, what happens when two people click "buy" on the last item at the same
@@ -27,7 +28,8 @@ pulling me toward networking and application security.
 
 ```python
 class Salar:
-    stack     = ["Python", "Django", "DRF", "Channels", "PostgreSQL", "Redis"]
+    core      = ["Python", "Django", "DRF", "Channels"]
+    data      = ["PostgreSQL", "Redis", "SQLite"]
     learning  = ["network protocols", "application security", "Docker"]
     languages = ["Persian (native)", "English (fluent)", "Hungarian (learning)"]
 
@@ -40,14 +42,13 @@ class Salar:
 ### Things I've built
 
 **[django-shop-api](https://github.com/salaringit/django-shop-api)** — E-commerce
-backend in DRF. Product variants, a server-side cart, coupons, and a transactional
+backend in Python. Product variants, a server-side cart, coupons, and a transactional
 checkout that locks stock rows so it can't oversell. Business rules live in a service
 layer rather than in the views. 27 tests, documented with OpenAPI.
 
 **[django-realtime-chat](https://github.com/salaringit/django-realtime-chat)** —
-Real-time messaging over Django Channels and WebSockets. Private chats, groups and
-broadcast channels, with replies, reactions, polls, read receipts, voice notes, and
-scheduled messages.
+Real-time messaging over WebSockets. Private chats, groups and broadcast channels,
+with replies, reactions, polls, read receipts, voice notes, and scheduled messages.
 
 Both READMEs have a "design decisions" section — the bugs I found, why they mattered,
 and what I changed. That tends to be the more interesting read.
@@ -72,9 +73,9 @@ and what I changed. That tends to be the more interesting read.
 ### Currently
 
 Studying in Budapest and **looking for part-time or working-student backend work** —
-Python/Django, or something adjacent I can grow into. Available around my class
-schedule, on site in Budapest or remote.
+Python, or something adjacent I can grow into. Available around my class schedule,
+on site in Budapest or remote.
 
-If you're hiring, or just want to argue about Django internals, my inbox is open.
+If you're hiring, or just want to argue about Python internals, my inbox is open.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
