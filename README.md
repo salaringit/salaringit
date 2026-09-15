@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/salaringit">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Two+years+of+Python+backends+for+real+clients;A+26k-line+platform+running+in+production;Concurrency%2C+race+conditions%2C+transactions;Studying+at+BME+in+Budapest;Open+to+part-time+%2F+working-student+roles" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Python+backends+that+real+people+log+into;A+26k-line+platform+running+in+production;Concurrency%2C+race+conditions%2C+transactions;Studying+at+BME+in+Budapest;Open+to+part-time+%2F+working-student+roles" alt="What I do" />
   </a>
 </p>
 
@@ -16,10 +16,10 @@
 
 ### About
 
-I'm a Python backend developer. I've spent the last two years building web
-applications for clients — internal automation tools, e-commerce sites, and real-time
-chat systems, mostly with Django. One of them runs a school: 26,000 lines, in
-production, handling student records, payroll and tuition accounting every day.
+I'm a Python backend developer. I build web applications for clients — internal
+automation tools, e-commerce sites, and real-time chat systems, mostly with Django.
+One of them runs a school: 26,000 lines, in production, handling student records,
+payroll and tuition accounting every day.
 
 Now I'm in Budapest, studying at **BME** and heading toward a Computer Science degree.
 
