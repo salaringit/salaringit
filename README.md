@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/salar-inlink/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://salarmir.ir">Website</a> &nbsp;·&nbsp;
   <a href="https://t.me/salarintelegram">Telegram</a> &nbsp;·&nbsp;
   <a href="mailto:personal.salarmir@gmail.com">Email</a>
@@ -50,6 +51,11 @@ messenger. Eleven Django apps, ~26k lines of Python. The repository is the write
 the source is private because the system is live and holds records for minors — I'll
 give access on request.
 
+**[poolist](https://github.com/salaringit/poolist)** — Household management in Django:
+shared wallets across currencies, budgets and recurring bills, a home inventory that tracks what
+gets used and re-bought, and chores on a cycle. Built around a household rather than a single user,
+bilingual (English/Persian) with Jalali and Gregorian calendars. ~7.5k lines.
+
 **[django-shop-api](https://github.com/salaringit/django-shop-api)** — E-commerce
 backend in Python. Product variants, a server-side cart, coupons, and a transactional
 checkout that locks stock rows so it can't oversell. Business rules live in a service
@@ -60,8 +66,8 @@ Real-time messaging over WebSockets. Private chats, groups and broadcast channel
 with replies, reactions, polls, read receipts, voice notes, and scheduled messages.
 Extracted from the portal above and rebuilt as a standalone project.
 
-The two public repositories have a "design decisions" section — the bugs I found, why
-they mattered, and what I changed. That tends to be the more interesting read.
+Each public repository has a "design decisions" section — the bugs I found, why they
+mattered, and what I changed. That tends to be the more interesting read.
 
 ---
 
@@ -87,6 +93,7 @@ Studying in Budapest and **looking for part-time or working-student backend work
 Python, or something adjacent I can grow into. Available around my class schedule,
 on site in Budapest or remote.
 
-If you're hiring, or just want to argue about Python internals, my inbox is open.
+If you're hiring, or just want to argue about Python internals, my inbox is open —
+or find me on [LinkedIn](https://www.linkedin.com/in/salar-inlink/).
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
